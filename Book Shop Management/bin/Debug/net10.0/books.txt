@@ -1,0 +1,4 @@
+101,C++ Programming,Bjarne Stroustrup,1500,10
+102,Data Structures,Seymour Lipschutz,1200,8
+103,Computer Science,Dennis Ritchie,1800,5
+10023,Atomic Habit,James Clear ,1000,10

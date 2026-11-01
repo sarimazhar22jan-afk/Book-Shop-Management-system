@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\obj\Debug\net10.0\Book Shop Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\obj\Debug\net10.0\Book Shop Management.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\obj\Debug\net10.0\Book Shop Management.AssemblyInfo.cs
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\obj\Debug\net10.0\Book Shop Management.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\bin\Debug\net10.0\Book Shop Management.exe
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\bin\Debug\net10.0\Book Shop Management.deps.json
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\bin\Debug\net10.0\Book Shop Management.runtimeconfig.json
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\bin\Debug\net10.0\Book Shop Management.dll
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\bin\Debug\net10.0\Book Shop Management.pdb
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\obj\Debug\net10.0\Book Shop Management.dll
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\obj\Debug\net10.0\refint\Book Shop Management.dll
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\obj\Debug\net10.0\Book Shop Management.pdb
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\obj\Debug\net10.0\Book Shop Management.genruntimeconfig.cache
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\obj\Debug\net10.0\ref\Book Shop Management.dll
+C:\Users\user\source\repos\Book Shop Management\Book Shop Management\obj\Debug\net10.0\Book Sho.B024D6A6.Up2Date
